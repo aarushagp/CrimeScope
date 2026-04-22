@@ -1,0 +1,26 @@
+Location,Crime Type,Count,Latitude,Longitude,Date
+Downtown,Theft,142,12.9716,77.5946,2024-01-12
+Riverside,Assault,68,12.9829,77.6099,2024-02-03
+Old Town,Burglary,95,12.9545,77.5821,2024-02-20
+Market Square,Vandalism,37,12.9628,77.6015,2024-03-11
+Station Road,Theft,110,12.9916,77.5742,2024-03-22
+Tech Park,Fraud,54,13.0019,77.6234,2024-04-05
+Nightlife District,Assault,121,12.9399,77.6099,2024-04-18
+Suburb North,Burglary,44,13.0151,77.5934,2024-05-09
+Mall Area,Theft,89,12.9716,77.6328,2024-05-25
+Parkside,Vandalism,22,12.9328,77.5821,2024-06-07
+Business Bay,Fraud,71,13.0099,77.6015,2024-06-19
+Harbor,Assault,58,12.9199,77.6234,2024-07-02
+Uptown,Theft,133,13.0295,77.6109,2024-07-21
+West End,Burglary,65,12.9628,77.5554,2024-08-08
+Stadium Area,Vandalism,41,12.9828,77.6412,2024-08-29
+Airport Road,Robbery,76,12.9745,77.5628,2024-09-15
+Industrial Zone,Theft,98,13.0128,77.5412,2024-09-30
+Central Park,Assault,52,12.9512,77.6199,2024-10-12
+Shopping District,Fraud,63,12.9815,77.5934,2024-10-25
+Residential Area,Burglary,38,13.0012,77.6412,2024-11-08
+Beach Road,Theft,84,12.9199,77.5312,2024-11-20
+Sports Complex,Robbery,45,13.0312,77.6099,2024-12-05
+University Campus,Vandalism,29,12.9928,77.6234,2024-12-18
+Hospital Road,Assault,67,12.9412,77.5821,2025-01-10
+Commercial Hub,Fraud,71,13.0128,77.6015,2025-01-25
